@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Terabaap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 👀 I’m Pro Nooob
+- 🌱 I’m currently learning Python
 - 📫 How to reach me TG- t.me/UrfatherAbhi
 
 <!---
